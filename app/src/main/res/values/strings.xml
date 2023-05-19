@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HealthCare</string>
+    <string name="todo">TODO</string>
+    <string name="lab_test">LAB TEST</string>
+    <string name="buy_medicine">BUY MEDICINE</string>
+    <string name="find_doctor">FIND DOCTOR</string>
+    <string name="_24_7_health_caere">24*7 HEAlTH CAERE</string>
+    <string name="health_articles">HEALTH ARTICLES</string>
+    <string name="order_details">ORDER DETAILS</string>
+    <string name="logout">LOGOUT</string>
+</resources>
